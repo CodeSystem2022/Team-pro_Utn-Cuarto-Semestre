@@ -1,5 +1,5 @@
 
-                                 Dios con nosotros, quién contra nosotros.
+                                   Dios con nosotros, quién contra nosotros.
 
 <br>
 <img src="https://github.com/testTPU/1/blob/main/logo-en-blanco.png?raw=true">
