@@ -1,0 +1,1 @@
+la carpeta de origen tiene un problema y no permite subirla cómo .idea
