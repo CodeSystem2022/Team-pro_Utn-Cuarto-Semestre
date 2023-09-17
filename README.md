@@ -1,5 +1,5 @@
 
-                                 Dios con nosotros, quién contra nosotros.
+                                   Dios con nosotros, quién contra nosotros.
 
 <br>
 <img src="https://github.com/testTPU/1/blob/main/logo-en-blanco.png?raw=true">
@@ -39,7 +39,7 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 | <span style="color:yellow;">Sandra Ferreyra</span> |      21/8 - 27/8 :+1:                                                |  [Semana 2](https://github.com/sandraFerreyra/semana2) |
 | <span style="color:yellow;">Fernando Gregoratti</span>|      28/8 - 3/9 :+1:                                           |  [Semana 3](https://github.com/mvkgamingarg/semana3)   |
 | <span style="color:yellow;">Exequiel Marín</span>       |      4/9 - 10/9 :+1:                                           |  [Semana 4](https://github.com/Exequiel3/semana4)       |
-| <span style="color:yellow;">David Sanchez</span>         |      5                                           |  [Semana 5](https://github.com/nob322/semana5)         |
+| <span style="color:yellow;">David Sanchez</span>         |       11/9 - 17/9 :+1:                                           |  [Semana 5](https://github.com/nob322/semana5)         |
 | <span style="color:yellow;">Sandra Ferreyra</span> |      6                                           |  [Semana 6](https://github.com/sandraFerreyra/semana6) |
 | <span style="color:yellow;">Fernando Gregoratti</span>|      7                                           |  [Semana 7](https://github.com/mvkgamingarg/semana7)   |
 | <span style="color:yellow;">Exequiel Marín</span>       |      8                                           |  [Semana 8](https://github.com/Exequiel3/semana8)       |
