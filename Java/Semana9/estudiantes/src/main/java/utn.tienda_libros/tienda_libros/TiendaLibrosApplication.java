@@ -1,16 +1,11 @@
 package utn.tienda_libros;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.context.ConfigurableApplicationContext;
+import utn.tienda_libros.vista.LibroFrom;
 
-@SpringBootTest
-class TiendaLibrosApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
 import java.awt.EventQueue;
 
 @SpringBootApplication
@@ -24,13 +19,12 @@ public class TiendaLibrosApplication {
                 .web(WebApplicationType.NONE)
                 .run(args);
         
-        //Ejecutamos el cï¿½digo para cargar el formulario
-        EventQueue.invokeLater(() -> { //Mï¿½todo Lambda
-            //Obtenemos el objeto from a travï¿½s del spring
+        //Ejecutamos el código para cargar el formulario
+        EventQueue.invokeLater(() -> { //Método Lambda
+            //Obtenemos el objeto from a través del spring
             LibroFrom libroFrom = contextoSpring.getBean(LibroFrom.class);
             libroFrom.setVisible(true);
             });
 	}
 
 }
-

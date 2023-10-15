@@ -5,6 +5,7 @@ function hola(nombre, miCallback){
     }, 1000);
 }
 
+
 function adios(nombre, otroCallback) {
     setTimeout( function() {
         console.log('Adios '+ nombre);
