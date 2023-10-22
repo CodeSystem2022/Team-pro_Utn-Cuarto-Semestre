@@ -178,3 +178,4 @@ public class LibroFrom extends JFrame {
         tablaLibros.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         listarLibros();
     }
+    
