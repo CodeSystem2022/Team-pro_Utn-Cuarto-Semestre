@@ -64,7 +64,7 @@ function talk(name) {
     });
   }
 
-  function sayBye(name) {
+function sayBye(name) {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
         console.log("Goodbye " + name);
@@ -72,3 +72,16 @@ function talk(name) {
       }, 1000);
     });
   }
+
+async function conversation(name) {
+    console.log('Code in english');
+    console.log("Starting async process...");
+    await sayHello(name);
+    await talk();
+    await talk();
+    await talk();
+    await sayBye(name);
+    console.log("Process completed");
+  }
+
+conversation("Ariel");
