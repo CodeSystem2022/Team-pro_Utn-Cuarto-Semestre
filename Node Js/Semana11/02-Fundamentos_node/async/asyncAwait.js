@@ -64,3 +64,11 @@ function talk(name) {
     });
   }
 
+  function sayBye(name) {
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        console.log("Goodbye " + name);
+        resolve(name);
+      }, 1000);
+    });
+  }
