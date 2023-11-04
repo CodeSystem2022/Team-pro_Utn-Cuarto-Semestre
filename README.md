@@ -47,6 +47,8 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 | <span style="color:yellow;">Sandra Ferreyra</span> |      16/10 - 22/10 :+1:                                           |  [Semana 10](https://github.com/sandraFerreyra/semana10)|
 | <span style="color:yellow;">Fernando Gregoratti</span>|       23/10 - 29/10 :+1:                                            |  [Semana 11](https://github.com/mvkgamingarg/semana11)  |
 | <span style="color:yellow;">Exequiel Marín</span>       |      12                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
+| <span style="color:yellow;">David Sanchez</span>       |      13                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
+| <span style="color:yellow;">Sandra Ferreyra</span>       |      14                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
 </div>
 
 <div id="header" align="center">
