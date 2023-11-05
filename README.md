@@ -46,13 +46,9 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 | <span style="color:yellow;">David Sanchez</span>         |       9/10 - 15/10 :+1:                                           |  [Semana 9](https://github.com/nob322/semana9)         |
 | <span style="color:yellow;">Sandra Ferreyra</span> |      16/10 - 22/10 :+1:                                           |  [Semana 10](https://github.com/sandraFerreyra/semana10)|
 | <span style="color:yellow;">Fernando Gregoratti</span>|       23/10 - 29/10 :+1:                                            |  [Semana 11](https://github.com/mvkgamingarg/semana11)  |
-<<<<<<< Updated upstream
-| <span style="color:yellow;">Exequiel Marín</span>       |      12                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
-=======
 | <span style="color:yellow;">~~Exequiel Marín~~ ✋</span>       |       30/10 - 5/11 :+1:                                           |  [Semana 12](https://github.com/Exequiel3/semana12)    |
 | <span style="color:yellow;">David Sanchez</span>       |      13                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
 | <span style="color:yellow;">Sandra Ferreyra</span>       |      14                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
->>>>>>> Stashed changes
 </div>
 
 <div id="header" align="center">
