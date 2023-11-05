@@ -32,3 +32,4 @@ setInmediate(() => {
 
 //require();
 
+console.log(__filename);
